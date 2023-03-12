@@ -1,0 +1,11 @@
+[{"Blood_Bank_ID":"30000", "Name":"London Blood Bank", "City":"London", "Country_ID":"UK", "createdAt":"2022-12-05 17:50:18", "updatedAt":"2022-12-05 17:50:18"},
+ {"Blood_Bank_ID":"30001", "Name":"Karachi Blood Bank", "City":"Karachi", "Country_ID":"PK", "createdAt":"2022-12-05 17:51:23", "updatedAt":"2022-12-05 17:51:23"},
+ {"Blood_Bank_ID":"30002", "Name":"New York Bank", "City":"New York", "Country_ID":"US", "createdAt":"2022-12-05 17:59:50", "updatedAt":"2022-12-05 17:59:50"},
+ {"Blood_Bank_ID":"30003", "Name":"Mumbai Blood Bank", "City":"Mumbai", "Country_ID":"IN", "createdAt":"2022-12-05 18:02:15", "updatedAt":"2022-12-05 18:02:15"},
+ {"Blood_Bank_ID":"30004", "Name":"Sydney Blood Bank", "City":"Sydney", "Country_ID":"AU", "createdAt":"2022-12-05 18:02:48", "updatedAt":"2022-12-05 18:02:48"},
+ {"Blood_Bank_ID":"30005", "Name":"Auckland Blood Bank", "City":"Auckland", "Country_ID":"NZ", "createdAt":"2022-12-05 19:12:45", "updatedAt":"2022-12-05 19:12:45"},
+ {"Blood_Bank_ID":"30006", "Name":"Jeddah Blood Bank", "City":"Saudi Arabia", "Country_ID":"SAR", "createdAt":"2022-12-05 19:13:06", "updatedAt":"2022-12-05 19:13:06"},
+ {"Blood_Bank_ID":"30007", "Name":"Dubai Blood Bank", "City":"Dubai Arabia", "Country_ID":"UAE", "createdAt":"2022-12-05 19:13:24", "updatedAt":"2022-12-05 19:13:24"},
+ {"Blood_Bank_ID":"30008", "Name":"Istanbul Blood Bank", "City":"Istanbul", "Country_ID":"TR", "createdAt":"2022-12-05 19:14:33", "updatedAt":"2022-12-05 19:14:33"},
+ {"Blood_Bank_ID":"30009", "Name":"Kabul Blood Bank", "City":"Kabul", "Country_ID":"AFG", "createdAt":"2022-12-05 19:17:44", "updatedAt":"2022-12-05 19:17:44"},
+ {"Blood_Bank_ID":"30010", "Name":"Cairo Blood Bank", "City":"Cairo", "Country_ID":"EGT", "createdAt":"2022-12-05 19:18:28", "updatedAt":"2022-12-05 19:18:28"}]

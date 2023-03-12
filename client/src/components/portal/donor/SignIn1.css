@@ -1,0 +1,32 @@
+body{
+  margin : 0;
+  font-family:'Open Sans Condensed',sans-serif;
+  padding: 0;
+  height: 100vh;
+  background-color: lightblue;
+}
+.SignIn1{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 500px;
+  height: auto;
+  padding: 20px;
+  border: 5px solid dodgerblue;
+  border-radius: 5px;
+}
+
+input{
+  width:95%;
+  border: 1px solid #dbdbdb;
+  padding: 5px;
+  margin: 2px 0;
+  border-radius:5px;
+  background-color: #fafafa;
+  box-shadow: black;
+  font-family: 'Open Sans Condensed',sans-serif;
+}
+button:hover{
+  cursor: pointer;
+  background-color: rgb(248, 252, 255);
+}

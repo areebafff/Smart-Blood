@@ -1,0 +1,47 @@
+--------------------------------
+setting up environment
+--------------------------------
+
+
+-clone the zip file
+
+-open folder on IDE
+
+-cd server
+
+-npm init
+
+-npm install express cors mysql2
+
+-npm install nodemon
+
+Download workbench connect to code
+
+-npm install sequelize sequelize-cli
+
+-sequelize init
+
+Download insomnia
+
+enter local host url
+
+-cd client
+
+-npx create-react-app .
+
+-npm start
+
+-npm install axios
+
+new terminal
+
+-cd server
+
+-npm start
+
+"./Client"
+
+-npm install formik
+
+-npm install yup
+
