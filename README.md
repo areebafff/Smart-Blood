@@ -38,3 +38,70 @@ Analytics where we can only get an analysis of our blood report, and you have to
 
 your own what step you will take next, but in our software, the experts will guide you about
 your condition and it will help you to save your money.
+
+2.2 Product Functions
+Login Interface - User should enter valid username and password to get access to its
+profile. The system provides security features through username-password matching
+where only authorized users can access the system with different authorization levels.
+Donor Profile Registrations - User will be able to see its Account No. , receipts of blood
+donated, need and request of blood. This allows the healthy public to register as volunteer
+donors.
+
+INPUT: Donor/ Recipient Id, Name, Date of Birth, Sex, Blood
+Group,Address, Contact Number, Email Address, Diseases (if any). OUTPUT:
+Successfully Registered.
+Patient Profile Registration - User will be able to see the information of their blood donor,
+report of their blood
+Blood Bank - Blood Bank staff can manage the blood stock starting from the blood collection, to
+blood screening, processing, storage, transference and transfusion through this system. Each process
+or work-flow can be traced from the database. The system will also alert the personnel whenever the
+blood quantity is below its par level or when the blood in stock has expired.
+
+2.3 User Classes and Characteristics
+The system will support three user privileges: Users(Patients, Donors), Doctors, and Admin.
+Users include patients and donors, patients and donors will have access to only their respective
+functionalities, doctors will have access to users and doctors information but they can only read
+them, and administrators will have access to everything.
+
+The Users should be able to do the following functions:
+Patients:
+● Upload personal information.
+● History of previous medications or drugs.
+● Test resultsDonors:
+● Upload personal information.
+● History of previous medications or drugs.
+● He can check how many times he has donated blood previously.
+The doctor should be able to do the following functions:
+● Get all donors who have previously donated the blood.● Decide whether the donor can
+donate or not.
+● Prescribe medicines to patients based on their reports.
+● Have access to the medical history of both Donors and Patients.
+● Recommend hospital to patients.
+The administrator should be able to do the following functions:
+● Add/Delete donors information.
+● Add/Delete patients information.
+● Add/Delete doctors information.
+2.4 Operating Environment
+Operating environment for the Smart Blood software are as listed below:
+● Database(Sql)
+● Client/Server system.
+● Operating System (Windows).
+● Platform(Node js, React)
+
+2.5 Design and Implementation Constraints
+● The donor and recipient are constrained to create an account first to avail the services.
+● Internet connection is also a constraint for this software.
+● This software is also constrained by the database capacity so it works well with a
+smallernumber of donors and hospitals.
+● End user&#39;s will not be able to get the information about the availability of the blood in
+thebank.
+● Only the Admin has all the right to edit the things in the End user&#39;s profile.
+
+2.6 User Documentation
+1. Node JS backend
+technologyhttps://www.youtube.com/watch?v=TlB_eWDSMt4
+https://nodejs.org/en/docs/
+
+2. React Frontend
+technologyhttps://www.youtube.com/watch?v=Ke90Tje7VS0
+https://reactjs.org/docs/getting-started.html
